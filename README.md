@@ -18,7 +18,7 @@
 
 El prototipo abarca un flujo de usuario completo de 8 pantallas interactivas:
 
-1. **Login & Onboarding:** Autenticación con imagen _Hero Background_ y acceso directo.
+1. **Login & Onboarding:** Autenticación con credenciales de usuario.
 2. **Inicio (Home):** Saludo personalizado, buscador, carrusel de categorías y recomendaciones en _Bento Grid_.
 3. **Catálogo (Bakery):** Filtros por tipo de producto y navegación por colecciones ("Bread Box").
 4. **Detalle de Producto:** Vista libre de distracciones (Top App Bar suprimida), etiquetas de valor ("Sin gluten", "Recién horneado") e ingredientes estructurados por capas.
